@@ -1,5 +1,9 @@
 # Autonomous_Driving
 
+## Objective
+
+Implementation of longitudinal control of an autonomous agent that manages traffic lights and intersections
+
 ## 1. Project setup
 
 1. Download or clone the **Agent project** via git [this repository](https://bitbucket.org/tonegas/basic_agent_st/src/master/);
@@ -23,9 +27,11 @@
    3. Compile the agent
 5. Run the agent
 
-Minimal driving simulator for testing high level and low levl control, in the contex of aunomous driving
+
 
 ### 1.2 Simulation Environment Setup
+
+> Minimal driving simulator for testing high level and low level control, in the context of autonomous driving
 
 #### Setup on windows
 
@@ -37,3 +43,4 @@ Minimal driving simulator for testing high level and low levl control, in the co
    - Install packages: `pip install -r requirements.txt`
 3. Open the file simulator.py
 4. Run the simulator: `python simulator.py`
+
